@@ -1,0 +1,8 @@
+{
+  "name": "NestPlayground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jakub-Radzik/NestPlayground.git",
+  "author": "Jakub Radzik <jradzik4@gmail.com>",
+  "license": "MIT"
+}
